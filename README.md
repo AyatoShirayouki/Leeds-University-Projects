@@ -27,7 +27,7 @@ __Limitations and Future Work__
 Addresses the limitations of the current analysis and suggests potential areas for future research, including more recent data incorporation and expanded socioeconomic indicators.
 
 
-# Project 2: Advanced Data Analysis and Visualization
+# Project 2: Insurance Fraud Detection
 ## Overview
 ### The second project, "P4DS_A2_Data_Analysis_Project.ipynb," involves advanced data analysis techniques with a focus on detailed data manipulation and visualization.
 
