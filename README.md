@@ -40,8 +40,8 @@ __Statistical Analysis__
 In-depth Analysis: The project conducts in-depth statistical analysis, though the specific methodologies and outcomes are not explicitly stated in the initial cells.
 Visualization and Presentation
 
-Sophisticated Visualization: Utilizes advanced visualization techniques, likely to interpret complex datasets effectively.
-Results Presentation: The notebook seems to emphasize the clear and impactful presentation of analytical findings.
+Sophisticated Visualization: Utilizes advanced visualization techniques, in order to interpret complex datasets effectively.
+Results Presentation: The notebook emphasizes the clear and impactful presentation of analytical findings.
 
 __Challenges and Opportunities__
 
