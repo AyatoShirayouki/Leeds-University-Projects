@@ -7,16 +7,19 @@
 __Data Source Analysis__
 
 Countries of the World Dataset: This section delves into the origin, content, and attributes of the dataset, including its last update, columns, and data accuracy.
+
 Life Expectancy Dataset: Detailed examination of life expectancy data, focusing on its content, relevance, and potential applications for predictive analysis.
 
 __Exploratory Data Analysis (EDA)__
 
 Statistical Analysis: The notebook conducts a thorough statistical analysis, exploring relationships between various socioeconomic indicators and life expectancy.
+
 Visualization: Utilizes data visualization techniques to illustrate the findings, making extensive use of plotting libraries.
 
 __Data Insights and Observations__
 
 Key Relationships: Discusses the observed relationships between different indicators and their implications.
+
 Health Indicators Analysis: Focuses on health-related aspects, exploring how socioeconomic factors influence health outcomes in different regions.
 
 __Limitations and Future Work__
@@ -33,6 +36,7 @@ Addresses the limitations of the current analysis and suggests potential areas f
 __Data Manipulation Techniques__
 
 Advanced Transformation: Showcases complex data transformations, suggesting a sophisticated approach to data handling and preparation.
+
 Dataset Integration: Indicates the potential integration of multiple datasets for a comprehensive analysis.
 
 __Statistical Analysis__
@@ -41,6 +45,7 @@ In-depth Analysis: The project conducts in-depth statistical analysis, though th
 Visualization and Presentation
 
 Sophisticated Visualization: Utilizes advanced visualization techniques, in order to interpret complex datasets effectively.
+
 Results Presentation: The notebook emphasizes the clear and impactful presentation of analytical findings.
 
 __Challenges and Opportunities__
